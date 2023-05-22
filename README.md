@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ganeshkadam07
+- 👋 Hi, I’m @Ganesh Kadam
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Science and Analytics
 - 💞️ I’m looking to collaborate on Data Related Tasks
