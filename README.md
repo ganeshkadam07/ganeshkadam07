@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ganesh Kadam
-- 👀 I’m interested in Data
+- 👀 I’m interested in Machine Learning and Artificial Intalligence
 - 🌱 I’m currently learning Data Science and Analytics
 - 💞️ I’m looking to collaborate on Data Related Tasks
 - 📫 How to reach me ..
