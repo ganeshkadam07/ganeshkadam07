@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ganesh Kadam. Currently working as a Oracle Database Developer.
 - 👀 I’m interested in Machine Learning, Deep Learning and Artificial Intalligence
 - 🌱 I’m currently learning Data Science and Analytics
-- 💞️ I’m looking to collaborate on Data Related Tasks
+- 💞️ I’m looking to collaborate on Data Related Tasks and Predictive Modelling 
 - 📫 How to reach me ..
 -          E-Mail:-ganeshkadam914@gmail.com
 -          LinkedIN- www.linkedin.com/in/ganesh-kadam-286253228/
