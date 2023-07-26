@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ganesh Kadam. Currently working as a Software Engineer.
-- 👀 I’m interested in Machine Learning, Deep Learning and Artificial Intalligence
+- 👀 I’m interested in Machine Learning, Deep Learning and Artificial Intalligence(NLP,CV)
 - 🌱 I’m currently learning Data Science and Artificial intelligence.
 - 💞️ I’m looking to collaborate on Data Related Tasks,Database and Predictive Modelling 
 - 📫 How to reach me ..
