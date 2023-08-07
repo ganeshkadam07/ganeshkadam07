@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Related Tasks,Database and Predictive Modelling 
 - 📫 How to reach me ..
 -          E-Mail:-ganeshkadam914@gmail.com
--          LinkedIN- www.linkedin.com/in/ganesh-kadam-286253228/
+-          LinkedIN- www.linkedin.com/in/ganesh-kadam-286253228
 
 - 
 <!---
